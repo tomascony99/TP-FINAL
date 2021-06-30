@@ -1,0 +1,43 @@
+ID,Name,TYPE,Total beef g,Total ml,Topping1,Topping2,Topping3,Topping4,Price
+1\1\1\0\2\3\0\0,plain cheeseburger,burger,250,,cheese,onion,,,450
+2\1\1\0\1\2\3\0,plain bacon cheeseburger,burger,250,,bacon,cheese,onion,,490
+3\1\1\0\4\5\3\6,plain veggie,burger,250,,lettuce,tomato,onion,pickles,375
+4\2\2\0\2\3\0\0,double cheeseburger,burger,350,,cheese,onion,,,525
+5\1\2\0\1\2\3\0,double bacon cheeseburger,burger,350,,bacon,cheese,onion,,555
+6\1\2\0\4\5\3\6,double veggie,burger,350,,lettuce,tomato,onion,pickles,425
+7\1\3\0\2\3\0\0,triple cheeseburger,burger,450,,cheese,onion,,,575
+8\1\3\0\1\2\3\0,triple bacon cheeseburger,burger,450,,bacon,cheese,onion,,600
+9\1\3\0\7\1\2\3,triple bacon-egg cheese burger ,burger,450,,egg,bacon,cheese,onion,620
+10\1\4\0\1\2\3\0, 5.0 bacon cheese burger,burger,600,,bacon,cheese,onion,,650
+11\2\0\1\0\0\0\0,coca,beverage,,500,,,,,70
+12\2\0\1\0\0\0\0,coca zero ,beverage,,500,,,,,70
+13\2\0\1\0\0\0\0,coca light,beverage,,500,,,,,70
+14\2\0\1\0\0\0\0,sprite ,beverage,,500,,,,,70
+15\2\0\1\0\0\0\0,sprite zero,beverage,,500,,,,,70
+16\2\0\1\0\0\0\0,fanta,beverage,,500,,,,,70
+17\2\0\1\0\0\0\0,fanta zero,beverage,,500,,,,,70
+18\2\0\1\0\0\0\0,agua,beverage,,500,,,,,60
+19\2\0\1\0\0\0\0,agua con gas,beverage,,500,,,,,60
+20\2\0\1\0\0\0\0,cerveza heineken,beverage,,500,,,,,90
+21\2\0\2\0\0\0\0,coca grande,beverage,,2250,,,,,220
+22\2\0\2\0\0\0\0,coca zero grande,beverage,,2250,,,,,220
+23\2\0\2\0\0\0\0,sprite grande ,beverage,,2250,,,,,220
+24\2\0\2\0\0\0\0,sprite zero grande ,beverage,,2250,,,,,220
+25\2\0\2\0\0\0\0,fanta zero grande ,beverage,,2250,,,,,220
+26\2\0\2\0\0\0\0,fanta grande ,beverage,,2250,,,,,220
+27\2\0\3\0\0\0\0,agua con gas grande ,beverage,,2000,,,,,170
+28\2\0\3\0\0\0\0,agua grande,beverage,,2000,,,,,170
+29\3\0\0\0\0\0\0,cono de papas,side,,,,,,,120
+30\3\0\0\2\0\0\0,cono de papas cheddar,side,,,cheese,,,,140
+31\3\0\0\1\2\0\0,cono de papas bacon cheddar,side,,,bacon,cheese,,,160
+32\4\0\0\0\0\0\0,4 piezas de pollo frito,fried chicken,,,,,,,500
+33\4\0\0\0\0\0\0,3 piezas de pollo frito ,fried chicken,,,,,,,400
+34\4\0\0\0\0\0\0,2 piezas de pollo frito,fried chicken,,,,,,,300
+35\5\0\0\0\0\0\0,xtra cheese,extra topping,,,,,,,25
+36\5\0\0\0\0\0\0,xtra bacon,extra topping,,,,,,,30
+37\5\0\0\0\0\0\0,xtra egg,extra topping,,,,,,,32
+38\5\0\0\0\0\0\0,xtra paty,extra topping,,,,,,,40
+39\5\0\0\0\0\0\0,xtra onion,extra topping,,,,,,,15
+40\5\0\0\0\0\0\0,xtra tomato,extra topping,,,,,,,10
+41\5\0\0\0\0\0\0,xtra lettuce,extra topping,,,,,,,10
+42\5\0\0\0\0\0\0,xtra pickles,extra topping,,,,,,,10

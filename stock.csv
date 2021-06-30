@@ -1,0 +1,43 @@
+name,type,price,quantity
+plain cheeseburger,burger,200,900
+plain bacon cheeseburger,burger,240,900
+plain veggie,burger,100,900
+double cheeseburger,burger,300,900
+double bacon cheeseburger,burger,320,900
+double veggie,burger,200,900
+triple cheeseburger,burger,300,900
+triple bacon cheeseburger,burger,390,900
+triple bacon-egg cheese burger,burger,400,900
+ 5.0 bacon cheese burger,burger,410,900
+coca,beverage,20,1000
+coca zero,beverage,20,1000
+coca light,beverage,20,1000
+sprite,beverage,20,1000
+sprite zero,beverage,20,1000
+fanta,beverage,20,1000
+fanta zero,beverage,20,1000
+agua,beverage,15,1000
+agua con gas,beverage,15,1000
+cerveza heineken,beverage,30,1000
+coca grande,beverage,50,1000
+coca zero grande,beverage,50,1000
+sprite grande,beverage,50,1000
+sprite zero grande,beverage,50,1000
+fanta zero grande,beverage,50,1000
+fanta grande,beverage,50,1000
+agua con gas grande,beverage,30,1000
+agua grande,beverage,30,1000
+cono de papas,sides,60,1000
+cono de papas cheddar,sides,70,600
+cono de papas bacon cheddar,sides,100,500
+4 piezas de pollo frito,fried chicken,200,800
+3 piezas de pollo frito,fried chicken,150,700
+2 piezas de pollo frito,fried chicken,100,600
+xtra cheese,extra topping,10,1200
+xtra bacon,extra topping,15,1200
+xtra egg,extra topping,15,1200
+xtra paty,extra topping,20,1200
+xtra onion,extra topping,7,1200
+xtra tomato,extra topping,5,1200
+xtra lettuce,extra topping,5,1200
+xtra pickles,extra topping,6,1200
